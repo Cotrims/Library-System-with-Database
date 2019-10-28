@@ -1,0 +1,51 @@
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmPrincipal.resources
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+Z:\BD\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+Z:\BD\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+Z:\BD\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+Z:\BD\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojAssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmPrincipal.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\12 Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmOperacoes.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojAssemblyReference.cache
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmOperacoes.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmPrincipal.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.cache
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe.config
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.exe
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\bin\Debug\apBiblioteca.pdb
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csprojResolveAssemblyReference.cache
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.Properties.Resources.resources
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLeitor.resources
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmLivro.resources
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmOperacoes.resources
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmPrincipal.resources
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.GenerateResource.Cache
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.csproj.CoreCompileInputs.cache
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.exe
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.pdb
+F:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmRelatorio.resources
+E:\BD2\Projeto\apBiblioteca\apBiblioteca\obj\Debug\apBiblioteca.UI.FrmRelatorio.resources

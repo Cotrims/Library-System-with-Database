@@ -1,0 +1,7 @@
+﻿
+							ANOTAÇÕES
+
+O que fazer: Na DAL de Emprestimo fazer o select por idLeitor e idLivro
+Emprestimo, Devolução
+	
+
